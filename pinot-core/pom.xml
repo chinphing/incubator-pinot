@@ -151,6 +151,11 @@
       <groupId>net.sf.jopt-simple</groupId>
       <artifactId>jopt-simple</artifactId>
     </dependency>
+    <dependency>
+      <groupId>com.jayway.jsonpath</groupId>
+      <artifactId>json-path</artifactId>
+    </dependency>
+
     <!-- test -->
     <dependency>
       <groupId>org.apache.pinot</groupId>
